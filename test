@@ -127,3 +127,33 @@ Yes — you’ve hit on the core barrier: an end-to-end “prompt→3D CAD→FEA
 
 
 
+
+
+Yes — ST Engineering is already a **NVIDIA customer** and has built its infrastructure to support NVIDIA GPU-based AI workloads:
+
+1. **NVIDIA in the Data Centre**
+   ST Engineering’s new Boon Lay Data Centre is explicitly designed for “high power density AI and Graphics Processing Unit (GPU)-based workloads in excess of 20 kW per rack,” through “partnerships with established GPU industry leaders” ([stengg.com][1]). While they don’t name Nvidia by brand in that release, this level of GPU support virtually always centers on NVIDIA’s data-center GPUs (A100, H100, etc.).
+
+2. **Listed Among NVIDIA Users**
+   In industry directories, ST Engineering appears on the list of Singapore companies “that use NVIDIA” technologies—alongside other engineering and manufacturing firms ([TheirStack.com][2]).
+
+3. **Digital-Twin & AI Workflows**
+   Although ST Engineering hasn’t publicly announced a branded “Omniverse” partnership, their **Digital Twin** and **AI-Analytics** platforms (AGIL® Trust, Merlin) would naturally leverage NVIDIA CUDA-enabled GPUs for real-time physics simulation, ray-tracing and large-scale model inference ([stengg.com][3]).
+
+---
+
+### What This Means for ST Engineering
+
+* **AI & Simulation Performance:** By running on NVIDIA GPUs, their digital-twin simulations (FEA, CFD, real-time 3D rendering) can execute orders of magnitude faster than CPU-only platforms.
+* **Future-Proofing:** Having a data centre “AI ready” for GPU workloads positions them to adopt NVIDIA’s next-gen hardware (Hopper, Blackwell) as soon as it’s available.
+* **Ecosystem Access:** As an NVIDIA user, ST Engineering can tap into NVIDIA’s developer ecosystem (CUDA, cuDNN, Omniverse SDKs), partner programs and early-access technology previews.
+
+In short, ST Engineering has built the **infrastructure backbone**—powered by NVIDIA GPUs—to support all of its high-fidelity digital-twin, AI and 3D-modeling workflows.
+
+[1]: https://www.stengg.com/en/newsroom/news-releases/st-engineering-breaks-ground-on-new-data-centre/ "News - ST Engineering Breaks Ground on New Data Centre"
+[2]: https://theirstack.com/en/technology/nvidia/sg "List of companies that use NVIDIA in Singapore (25) | TheirStack.com"
+[3]: https://www.stengg.com/en/digital-tech/data-science-analytics-and-ai/?utm_source=chatgpt.com "Data Science, Analytics and AI - ST Engineering"
+
+
+
+
