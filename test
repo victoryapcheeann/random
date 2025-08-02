@@ -238,3 +238,39 @@ All of this gets fused into a unified, multi-modal dataset where each “part in
 
 
 
+It’s **not yet the norm**—fully automated, end-to-end pipelines from “prompt→3D CAD→FEA→CAM→digital twin→ERP/PLM” remain **cutting-edge** rather than mainstream today:
+
+* **High Applicability, Low Full Deployment**
+  While **86 %** of surveyed executives say a digital twin is “applicable” to their operations, only **44 %** have actually implemented one—and most of those projects stop at the “digital shadow” (static model) stage rather than a closed-loop lifecycle ([McKinsey & Company][1]).
+
+* **Limited Full-Life-Cycle Adoption**
+  Across manufacturing globally, just **29 %** of companies have either fully executed or partially adopted digital-twin strategies—and only a fraction of those integrate upstream (LLM-to-CAD) and downstream (CAM, PLM sync, live IoT feedback) steps ([Hexagon][2]).
+
+* **Concentration in Advanced Sectors**
+  Adoption is skewed to aerospace, automotive and defence (“advanced industries”)—where up to **75 %** of firms report medium-to-high digital-twin maturity—leaving logistics, energy and smart-city players mostly in pilot phases ([McKinsey & Company][3]).
+
+---
+
+### Why It’s Still Emerging
+
+1. **Data & Integration Challenges**
+   Pulling together CAD, BOM, process logs, sensor streams and ERP data into one consistent data fabric is nontrivial—and most companies lack the in-house expertise or tooling to do it seamlessly.
+
+2. **Skill & Toolchain Gaps**
+   You need ML/prompt-engineering talent, CAD-automation developers, DevOps for CAD engines (Forge/COM), plus domain experts to validate outputs—few organizations can staff that cross-disciplinary team today.
+
+3. **Cultural & Process Change**
+   Moving from point-solutions (e.g. “we run FEA automatically”) to a fully orchestrated pipeline requires breaking silos between design, manufacturing, IT and operations—a major organizational shift.
+
+---
+
+**Bottom line:** The vision of an AI-driven, closed-loop engineering co-pilot is **within reach** and being piloted by leaders like ST Engineering, Siemens and GE Digital—but it’s still a **frontier**. Most companies today remain in the “proof-of-concept” or “digital shadow” stage, with full lifecycle automation expected to solidify as best practices and platforms converge over the next 2–3 years.
+
+[1]: https://www.mckinsey.com/capabilities/operations/our-insights/digital-twins-the-next-frontier-of-factory-optimization?utm_source=chatgpt.com "Digital twins: The next frontier of factory optimization"
+[2]: https://hexagon.com/resources/insights/digital-twin/statistics?utm_source=chatgpt.com "2025 Digital Twin Statistics"
+[3]: https://www.mckinsey.com/industries/industrials-and-electronics/our-insights/digital-twins-the-key-to-smart-product-development?utm_source=chatgpt.com "Digital twins: The key to smart product development"
+
+
+
+
+
